@@ -76,7 +76,7 @@ Example:
 </form>
 ```
 
-Video Link: https://www.youtube.com/playlist?list=PL3md42W5AI8-IyFErdGsdnX5O4i_sCTi0&jct=J87udO4Fx7jUSLOORDVIIA
+Video Link: [https://www.youtube.com/playlist?list=PL3md42W5AI8-IyFErdGsdnX5O4i_sCTi0&jct=J87udO4Fx7jUSLOORDVIIA](https://www.youtube.com/watch?v=2O8pkybH6po)
 
 Things to remember
 --------------------------------------------------------------------------------
@@ -84,4 +84,5 @@ Things to remember
 2. Correct spelling
 3. Using label to label the form questions
 4. Using the correct input type
+
 5. Make sure to use required when needed
